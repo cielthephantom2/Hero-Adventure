@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translation.csproj|e:\\github project\\hero-adventure\\wulin-vn\\vyyy.translation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translation.csproj|solutionrelative:vyyy.translation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translate.csproj|e:\\github project\\hero-adventure\\wulin-vn\\bepinexloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translate.csproj|solutionrelative:bepinexloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vyyy.Translate.csproj",
+              "DocumentMoniker": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\Vyyy.Translation.csproj",
+              "RelativeDocumentMoniker": "Vyyy.Translation.csproj",
+              "ToolTip": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\Vyyy.Translation.csproj",
+              "RelativeToolTip": "Vyyy.Translation.csproj",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAvwFgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T02:52:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BepInExLoader.cs",
+              "DocumentMoniker": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\BepInExLoader.cs",
+              "RelativeDocumentMoniker": "BepInExLoader.cs",
+              "ToolTip": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\BepInExLoader.cs",
+              "RelativeToolTip": "BepInExLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T02:51:25.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
