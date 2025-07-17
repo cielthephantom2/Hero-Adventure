@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Đại hiệp lập chí truyện - Vietnamese Mod")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.4.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4+60940d424167a7d1bb15c6bb246a56d58de8c142")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.4+ded222baab4a0f89544c3f6f49c90aab862e45ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vyyy.Translation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vyyy.Translation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.4.0")]

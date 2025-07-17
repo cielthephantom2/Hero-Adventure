@@ -52,7 +52,7 @@ class Patches
     private static void TextMeshProUGUI_OnEnable_Postfix(TextMeshProUGUI __instance)
     {
 
-        if (VyyyTranslationConfig.MainFontAsset != null && VyyyTranslationConfig.MainFontAsset.name != __instance.font.name)
+        if (VyyyTranslationConfig.ReplaceFont && VyyyTranslationConfig.MainFontAsset != null && VyyyTranslationConfig.MainFontAsset.name != __instance.font.name)
         {
             TMP_FontAsset font = __instance.font;
 

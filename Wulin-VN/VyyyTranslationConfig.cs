@@ -17,6 +17,7 @@ public class VyyyTranslationConfig
     public static string CharAddToAsset { get; set; }
     public static Font MainFont { get; set; }
     public static bool isBundle = false;
+    public static bool ReplaceFont = false;
     public static Dictionary<string, string> CustomConfig { get; set; }
     public static string pathBundleFont = Path.Combine(BepInExLoader.assemblyFolder, "Font", "font.bundle");
     public static string pathMainFont = Path.Combine(BepInExLoader.assemblyFolder, "Font", "font.ttf");
@@ -59,9 +60,11 @@ public class VyyyTranslationConfig
         ConfigFile configFile = new ConfigFile(text, false);
         configFile.SaveOnConfigSet = false;
         ConfigEntry<bool> configEntryDump = configFile.Bind<bool>("General", "Dump", false, "");
+        ConfigEntry<bool> configEntryReplaceFont = configFile.Bind<bool>("General", "ReplaceFont", false, "Thay font game bằng font cấu hình (true/false)");
         ConfigEntry<string> configEntryFont = configFile.Bind<string>("General", "FontName", "font in bundle");
         ConfigEntry<string> configEntryChar = configFile.Bind<string>("General", "CharAddToAsset", "áàạảãâấầậẩẫăắằặẳẵÁÀẠẢÃÂẤẦẬẨẪĂẮẰẶẲẴéèẹẻẽêếềệểễÉÈẸẺẼÊẾỀỆỂỄóòọỏõôốồộổỗơớờợởỡÓÒỌỎÕÔỐỒỘỔỖƠỚỜỢỞỠúùụủũưứừựửữÚÙỤỦŨƯỨỪỰỬỮíìịỉĩÍÌỊỈĨđĐýỳỵỷỹÝỲỴỶỸ");
         VyyyTranslationConfig.Dump = configEntryDump.Value;
+        VyyyTranslationConfig.ReplaceFont = configEntryReplaceFont.Value;
         VyyyTranslationConfig.FontName = configEntryFont.Value;
         VyyyTranslationConfig.CharAddToAsset = configEntryChar.Value;
         VyyyTranslationConfig.CustomConfig = VyyyTranslationConfig.GetKeys(text, "custom");
