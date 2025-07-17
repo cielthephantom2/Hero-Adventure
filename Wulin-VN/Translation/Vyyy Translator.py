@@ -21,7 +21,7 @@ Model_Type = "gemini-2.5-flash"  # Chọn mô hình hỗ trợ từ Google GenAI
 
 # Khởi tạo client Google GenAI
 # Lưu ý: Thay "YOUR_API_KEY" bằng API key của bạn
-client = genai.Client(api_key="AIzaSyDCVUILyYAJ6YVWN1s00A2AYlytFVuSl8c")
+client = genai.Client(api_key="")
 
 # Cấu hình kiểm tra nội dung lặp lại
 repeat_count = 5  # Số lần lặp lại để xác định bản dịch kém chất lượng
