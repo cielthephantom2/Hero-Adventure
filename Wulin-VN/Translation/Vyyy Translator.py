@@ -64,7 +64,7 @@ if dict_path:
     except Exception as e:
         print(f"\033[31mLỗi không xác định khi đọc từ điển: {e}\033[0m")
 
-# Kiểm tra xem chuỗi có chứa ký tự tiếng Nhật không
+# Kiểm tra xem chuỗi có chứa ký tự tiếng Trung không
 def contains_chinese(text):
     pattern = re.compile(r'[\u4e00-\u9fff]')
     return pattern.search(text) is not None
