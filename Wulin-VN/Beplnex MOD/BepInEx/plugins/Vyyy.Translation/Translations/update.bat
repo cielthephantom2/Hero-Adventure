@@ -1,0 +1,1 @@
+curl -L "https://raw.githubusercontent.com/cielthephantom2/Hero-Adventure/refs/heads/main/Wulin-VN/Translation/LocData.json" > ./LocData.json

@@ -1,0 +1,281 @@
+﻿V{{A}}b{{B}} Chính thức=V{{A}}b{{B}} Chính thức
+{{A}} Quán{{B}} Văn={{A}} Quán{{B}} Văn
+Ngày {{A}}=Ngày {{A}}
+西域=Tây Vực
+第{{A}}层=Tầng {{A}}
+中州=Trung Châu
+西南=Tây Nam
+襄樊=Tương Phàn
+吴越=Ngô Việt
+燕云=Yên Vân
+东南=Đông Nam
+Thông báo {{A}}=Thông báo {{A}}
+前往大梁城=Tiến đến Đại Lương Thành
+Lưu game thủ công {{A}}=Lưu game thủ công {{A}}
+Thời gian chơi: {{A}} ngày {{B}} giờ {{C}} phút=Thời gian chơi: {{A}} ngày {{B}} giờ {{C}} phút
+{{A}}积分={{A}} Điểm
+Tự động lưu {{A}}=Tự động lưu {{A}}
+{{A}} Trọng={{A}} Trọng
+{{A}} Trọng ={{A}} Trọng 
+Sau khi vào trận,tốc độ tụ khí +{{A}}.=Sau khi vào trận,tốc độ tụ khí +{{A}}.
+Giang Hồ Lịch Luyện:{{A}}=Giang Hồ Lịch Luyện:{{A}}
+Tất cả kẻ địch trong phạm vi {{A}} ô xung quanh sẽ chịu sát thương bằng {{B}} HP tối đa và bị đẩy lùi ra ô trống lân cận.=Tất cả kẻ địch trong phạm vi {{A}} ô xung quanh sẽ chịu sát thương bằng {{B}} HP tối đa và bị đẩy lùi ra ô trống lân cận.
+556<color\=#41CA44> +190=556<color\=#41CA44> +190
+790<color\=#41CA44> +178=790<color\=#41CA44> +178
+{{A}}%={{A}}%
+4%<color\=#41CA44> +8%=4%<color\=#41CA44> +8%
+Tập Khí tốc độ +{{A}}=Tập Khí tốc độ +{{A}}
+说的是事实杀杀杀=Đó là sự thật Sát Sát Sát
+Lần ngồi thiền này tổng cộng tiêu hao {{A}} Canh giờ=Lần ngồi thiền này tổng cộng tiêu hao {{A}} Canh giờ
+Ty Thần của Độ no giảm đi {{A}} điểm=Ty Thần của Độ no giảm đi {{A}} điểm
+Đội ngũ của Thể lực giảm đi {{A}} điểm=Đội ngũ của Thể lực giảm đi {{A}} điểm
+Thuê phòng.<color\=#097a76>(200 Văn)</color>=Thuê phòng.<color\=#097a76>(200 Văn)</color>
+ mất <#FFED56>200 đồng</color>= mất <#FFED56>200 đồng</color>
+Toàn đội Kinh nghiệm nhanh nhẹn tăng thêm {{A}} điểm=Toàn đội Kinh nghiệm nhanh nhẹn tăng thêm {{A}} điểm
+Nghỉ ngơi{{A}} Canh giờ=Nghỉ ngơi{{A}} Canh giờ
+<#61C3C8>Ngụy Uyên</color> nhận được <#D7A347>310 EXP</color>=<#61C3C8>Ngụy Uyên</color> nhận được <#D7A347>310 EXP</color>
+<#61C3C8>Ngụy Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 310=<#61C3C8>Ngụy Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 310
+Ngụy Uyên nhận được trạng thái <#00FF00>Sinh Mệnh,Nội Lực khôi phục 100%</color>=Ngụy Uyên nhận được trạng thái <#00FF00>Sinh Mệnh,Nội Lực khôi phục 100%</color>
+Đội ngũ của Tâm tình tăng thêm {{A}} điểm=Đội ngũ của Tâm tình tăng thêm {{A}} điểm
+Đội ngũ của Thể lực tăng thêm {{A}} điểm=Đội ngũ của Thể lực tăng thêm {{A}} điểm
+ nhận được 1 con <#68cf24>Rết nghìn chân</color>= nhận được 1 con <#68cf24>Rết nghìn chân</color>
+ nhận được 1 tiêu <#68cf24>Giun đất</color>= nhận được 1 tiêu <#68cf24>Giun đất</color>
+Ngụy Uyên của Danh Tiếng tăng thêm {{A}} điểm=Ngụy Uyên của Danh Tiếng tăng thêm {{A}} điểm
+Nhận được <#5CBD4C>1980 điểm kinh nghiệm giang hồ</color>=Nhận được <#5CBD4C>1980 điểm kinh nghiệm giang hồ</color>
+Đột Kích<#29F161>tỉ lệ thành công tăng 25%,Đột Kích<#29F161>hiệu quả tăng trưởng tăng 100%</color>.=Đột Kích<#29F161>tỉ lệ thành công tăng 25%,Đột Kích<#29F161>hiệu quả tăng trưởng tăng 100%</color>.
+Khi sử dụng võ công, tiêu hao nội lực <#FE2929>tăng 200%</color>, <#FE2929>tốc độ tích tụ nội lực giảm 25%</color>.=Khi sử dụng võ công, tiêu hao nội lực <#FE2929>tăng 200%</color>, <#FE2929>tốc độ tích tụ nội lực giảm 25%</color>.
+Đối với mục tiêu không phải là Boss và cấp độ thấp hơn 10 cấp so với bản thân, có <#29F161>25%</color> xác suất gây <#29F161>sát thương chí mạng</color>.=Đối với mục tiêu không phải là Boss và cấp độ thấp hơn 10 cấp so với bản thân, có <#29F161>25%</color> xác suất gây <#29F161>sát thương chí mạng</color>.
+Ngự Kiếm{{A}}、Tí lực{{B}}=Ngự Kiếm{{A}}、Tí lực{{B}}
+Khởi đầu trận đấu,Tập khí tăng {{A}} điểm.=Khởi đầu trận đấu,Tập khí tăng {{A}} điểm.
+Người Thục Sơn khéo léo,cần cù bù thông minh. Thông qua chiến đấu tiêu diệt đối phương nhận được <#29F161>EXP +15%</color>.=Người Thục Sơn khéo léo,cần cù bù thông minh. Thông qua chiến đấu tiêu diệt đối phương nhận được <#29F161>EXP +15%</color>.
+Sau thời gian dài khổ luyện,cuối cùng đã thông thạo Đoản Binh Kỹ Xảo,<#29F161>Đoản binh +15</color>.=Sau thời gian dài khổ luyện,cuối cùng đã thông thạo Đoản Binh Kỹ Xảo,<#29F161>Đoản binh +15</color>.
+Sở hữu thiên phú săn bắn hơn người,có thể săn đuổi chính xác bất kỳ loài thú hoang nào lọt vào tầm mắt. <#29F161>Sát thương cuối cùng gây ra lên kẻ địch thuộc loài vật tăng 15%</color>.=Sở hữu thiên phú săn bắn hơn người,có thể săn đuổi chính xác bất kỳ loài thú hoang nào lọt vào tầm mắt. <#29F161>Sát thương cuối cùng gây ra lên kẻ địch thuộc loài vật tăng 15%</color>.
+Thân Pháp phi thường,dù trong bất kỳ tình huống nào cũng luôn chiếm được tiên cơ,<#29F161>mỗi lần hành động Tập Khí trị từ 100 bắt đầu tích lũy</color>.=Thân Pháp phi thường,dù trong bất kỳ tình huống nào cũng luôn chiếm được tiên cơ,<#29F161>mỗi lần hành động Tập Khí trị từ 100 bắt đầu tích lũy</color>.
+Đòn đánh thường đầu tiên trong mỗi trận chiến được tăng {{A}}% xác suất ra đòn liên hoàn,hiệu ứng này sẽ biến mất sau khi tấn công.=Đòn đánh thường đầu tiên trong mỗi trận chiến được tăng {{A}}% xác suất ra đòn liên hoàn,hiệu ứng này sẽ biến mất sau khi tấn công.
+Đại Khí Vãn Thành,tích lũy sâu dày,bộc phát mạnh mẽ,trước cấp 50 khi chiến đấu tiêu diệt đối phương chỉ nhận được <#FE2929>một nửa EXP</color>,nhưng sau cấp 50 có thể nhận thêm <#29F161>2 lần EXP</color>.=Đại Khí Vãn Thành,tích lũy sâu dày,bộc phát mạnh mẽ,trước cấp 50 khi chiến đấu tiêu diệt đối phương chỉ nhận được <#FE2929>một nửa EXP</color>,nhưng sau cấp 50 có thể nhận thêm <#29F161>2 lần EXP</color>.
+Như được cả hai vị thần Tài Lộc chiếu cố,đúng là phúc tinh giáng trần! <#29F161>Khi tiêu diệt kẻ địch có 50% xác suất rơi thêm một vật phẩm.</color>=Như được cả hai vị thần Tài Lộc chiếu cố,đúng là phúc tinh giáng trần! <#29F161>Khi tiêu diệt kẻ địch có 50% xác suất rơi thêm một vật phẩm.</color>
+Nhận kinh nghiệm hùng biện sẽ được thêm <#29F161>15% kinh nghiệm</color>.=Nhận kinh nghiệm hùng biện sẽ được thêm <#29F161>15% kinh nghiệm</color>.
+Đừng xem lão phu chỉ là đồng sinh, nói về việc làm học vấn thì không hề kém những học究 mở trường dạy học.=Đừng xem lão phu chỉ là đồng sinh, nói về việc làm học vấn thì không hề kém những học sĩ mở trường dạy học.
+Tại hạ Ngụy Uyên, nghe danh mà đến bái phỏng.<color\=#097a76>(Danh Thanh đạt cấp 5 Văn danh xa gần)</color>=Tại hạ Ngụy Uyên, nghe danh mà đến bái phỏng.<color\=#097a76>(Danh Thanh đạt cấp 5 Văn danh xa gần)</color>
+Ngụy Uyên của Kinh nghiệm ngộ tính tăng thêm {{A}} điểm=Ngụy Uyên của Kinh nghiệm ngộ tính tăng thêm {{A}} điểm
+Nổi danh xa gần (Danh tiếng cấp {{A}})=Nổi danh xa gần (Danh tiếng cấp {{A}})
+<#79d86a>Quen biết(0)+25</color>=<#79d86a>Quen biết(0)+25</color>
+Hoàn thành sự kiện <#ff8800>啊啊啊啊</color> sau có thể tiếp tục tăng độ thân thiết=Hoàn thành sự kiện <#ff8800>Á á á á</color> sau có thể tiếp tục tăng độ thân thiết
+ mất 1 hộp <#00c6f3>Thất Bảo Lôi Trà</color>= mất 1 hộp <#00c6f3>Thất Bảo Lôi Trà</color>
+Ngụy Uyên của <#d09a09>Khẩu tài kinh nghiệm</color> tăng thêm 18 điểm=Ngụy Uyên của <#d09a09>Khẩu tài kinh nghiệm</color> tăng thêm 18 điểm
+<#40c6e7>Tri kỷ(60)+12</color>=<#40c6e7>Tri kỷ(60)+12</color>
+<#F2E846>Lễ Tiết+2</color>=<#F2E846>Lễ Tiết+2</color>
+<#F2E846>Nhân Đức+3</color>=<#F2E846>Nhân Đức+3</color>
+Học hải vô涯 phía sau là gì nhỉ,quay đầu là bờ?=Học hải vô涯 phía sau là gì nhỉ, quay đầu là bờ?
+ nhận được 1 phần <#c851ff>Vô Căn Thủy</color>= nhận được 1 phần <#c851ff>Vô Căn Thủy</color>
+Giờ Tỵ一刻=Giờ Tỵ Nhất Giờ
+Thể chất{{A}}=Thể chất{{A}}
+Khi tấn công, gây <#FE2929>4 điểm chảy máu</color> cho địch.=Khi tấn công, gây <#FE2929>4 điểm chảy máu</color> cho địch.
+Sái Đao{{A}}=Sái Đao{{A}}
+Khi tâm trạng giảm,hiệu quả <#29F161>giảm 50%</color>,khi tâm trạng tốt lên,hiệu quả <#29F161>tăng 100%</color>.=Khi tâm trạng giảm,hiệu quả <#29F161>giảm 50%</color>,khi tâm trạng tốt lên,hiệu quả <#29F161>tăng 100%</color>.
+Ngự Kiếm{{A}}、Thể chất{{B}}=Ngự Kiếm{{A}}、Thể chất{{B}}
+Sau khi vào trận,nếu thi triển võ công loại đoản binh,<#29F161>sát thương tăng 12%</color>.=Sau khi vào trận,nếu thi triển võ công loại đoản binh,<#29F161>sát thương tăng 12%</color>.
+Nấu nướng <#29F161>hiệu suất tăng trưởng 200%</color>.=Nấu nướng <#29F161>hiệu suất tăng trưởng 200%</color>.
+<#29F161>Mệnh Trung Tăng Gia10%</color>.=<#29F161>Mệnh Trung Tăng Gia10%</color>.
+Khi bị tấn công nếu kích hoạt đỡ đòn,thỏa mãn điều kiện phản kích thì đòn tấn công này chắc chắn phản kích,khi phản kích nội lực tiêu hao tăng {{A}}%.=Khi bị tấn công nếu kích hoạt đỡ đòn,thỏa mãn điều kiện phản kích thì đòn tấn công này chắc chắn phản kích,khi phản kích nội lực tiêu hao tăng {{A}}%.
+Tặng quà cho người khác giới hiệu quả tăng 50%</color>.=Tặng quà cho người khác giới hiệu quả tăng 50%</color>.
+Sau mỗi lượt hành động <#29F161>hồi phục 5% HP đã mất,tối đa 50 điểm</color>.=Sau mỗi lượt hành động <#29F161>hồi phục 5% HP đã mất,tối đa 50 điểm</color>.
+Khi tấn công, gây <#FE2929>5 điểm phong huyệt</color> cho địch.=Khi tấn công, gây <#FE2929>5 điểm phong huyệt</color> cho địch.
+Trường Binh{{A}}、Tí lực{{B}}=Trường Binh{{A}}、Tí lực{{B}}
+Sái Đao{{A}}、Tí lực{{B}}=Sái Đao{{A}}、Tí lực{{B}}
+操操操操操操操=Đụ đụ đụ đụ đụ đụ đụ
++{{A}}=+{{A}}
+<#cc7bff>Sinh tử(100)</color>=<#cc7bff>Sinh tử(100)</color>
+<#29F161>Tốc độ di chuyển tăng 5 điểm</color>.=<#29F161>Tốc độ di chuyển tăng 5 điểm</color>.
+ mất 1 con <#68cf24>Rết nghìn chân</color>= mất 1 con <#68cf24>Rết nghìn chân</color>
+MapName_{{A}}=MapName_{{A}}
+<#9B8C6D>Tiêu hao:</color>5 Canh giờ4 Giờ=<#9B8C6D>Tiêu hao:</color>5 Canh giờ4 Giờ
+Ngụy tiểu ca, hồi đó trong của hồi môn của nô gia có một món đồ khá kỳ lạ. Nhờ tiểu ca chiếu cố nô gia, món đồ này tính {{A}} quan tiền bán rẻ cho ngươi nhé.=Ngụy tiểu ca, hồi đó trong của hồi môn của nô gia có một món đồ khá kỳ lạ. Nhờ tiểu ca chiếu cố nô gia, món đồ này tính {{A}} quan tiền bán rẻ cho ngươi nhé.
+Cái này nhiều nhất 1 quan 500 văn, thêm một văn cũng không đáng. <color\=#097a76>（Kinh thương cấp 3, 1500 văn）</color>=Cái này nhiều nhất 1 quan 500 văn, thêm một văn cũng không đáng. <color\=#097a76>（Kinh thương cấp 3, 1500 văn）</color>
+Ta mua rồi, cứ theo lời ngươi nói là 3 quan tiền. <color\=#097a76>（3000 văn）</color>=Ta mua rồi, cứ theo lời ngươi nói là 3 quan tiền. <color\=#097a76>（3000 văn）</color>
+ nhận được 1 mai <#c851ff>Ngọc Tịch Tà</color>= nhận được 1 mai <#c851ff>Ngọc Tịch Tà</color>
+<#F2E846>Nghĩa Khí+2</color>=<#F2E846>Nghĩa Khí+2</color>
+ nhận được 1 cái <#00c6f3>Trúc Tinh Đình</color>= nhận được 1 cái <#00c6f3>Trúc Tinh Đình</color>
+ nhận được 1 đoạn <#c851ff>Ngọc trúc chữ Nhân</color>= nhận được 1 đoạn <#c851ff>Ngọc trúc chữ Nhân</color>
+Táo mỗi cân {{A}} văn tiền......=Táo mỗi cân {{A}} văn tiền......
+{{A}} văn tiền (tăng giá mạnh).={{A}} văn tiền (tăng giá mạnh).
+{{A}} văn tiền (tăng giá nhẹ).={{A}} văn tiền (tăng giá nhẹ).
+{{A}} văn tiền.={{A}} văn tiền.
+ nhận được <#FFED56>45 đồng tiền</color>= nhận được <#FFED56>45 đồng tiền</color>
+<#F2E846>Uy tín+5</color>=<#F2E846>Uy tín+5</color>
+{{A}} văn tiền một cân (tăng giá mạnh).={{A}} văn tiền một cân (tăng giá mạnh).
+{{A}} văn tiền một cân (tăng giá nhẹ).={{A}} văn tiền một cân (tăng giá nhẹ).
+{{A}} văn tiền một cân={{A}} văn tiền một cân
+{{A}} văn tiền một cân (tăng giá khủng).={{A}} văn tiền một cân (tăng giá khủng).
+Ừm, bán được năm cân táo, mười cân lý chi, hai mươi cân dưa hấu...... tổng cộng {{A}} văn.=Ừm, bán được năm cân táo, mười cân lý chi, hai mươi cân dưa hấu...... tổng cộng {{A}} văn.
+ nhận được 1 kiện <#c851ff>Dụng cụ lạ</color>= nhận được 1 kiện <#c851ff>Dụng cụ lạ</color>
+ nhận được 1 lồng <#d09a09>Gói Cát Tường Như Ý</color>= nhận được 1 lồng <#d09a09>Gói Cát Tường Như Ý</color>
+<#F2E846>Trí Tuệ+10</color>=<#F2E846>Trí Tuệ+10</color>
+x{{A}}=x{{A}}
+-{{A}}=-{{A}}
+<#F55452>Chảy máu+8</color>=<#F55452>Chảy máu+8</color>
+<#F55452>Mù lòa+8</color>=<#F55452>Mù lòa+8</color>
+<#F55452>Mù lòa-6</color>=<#F55452>Mù lòa-6</color>
+<#61C3C8>HoaTứ Nương</color> đã dùng 1 phần <#c851ff>Ngọc Lộ Hoàn</color>=<#61C3C8>HoaTứ Nương</color> đã dùng 1 phần <#c851ff>Ngọc Lộ Hoàn</color>
+Sau khi sử dụng Khinh Thân,phạm vi di chuyển tăng thêm {{A}} ô,tốc độ Tập Khí tăng {{B}} điểm,hiệu lực kéo dài đến lượt hành động tiếp theo.=Sau khi sử dụng Khinh Thân,phạm vi di chuyển tăng thêm {{A}} ô,tốc độ Tập Khí tăng {{B}} điểm,hiệu lực kéo dài đến lượt hành động tiếp theo.
+Tiêu hao nội lực: {{A}}=Tiêu hao nội lực: {{A}}
+<#F55452>Chảy máu-4</color>=<#F55452>Chảy máu-4</color>
+Lần ngồi thiền này tổng cộng tiêu hao {{A}} Giờ=Lần ngồi thiền này tổng cộng tiêu hao {{A}} Giờ
+Trường Binh{{A}}=Trường Binh{{A}}
+Khi tấn công, giảm <#FE2929>6 điểm nội lực tích tụ</color> của địch.=Khi tấn công, giảm <#FE2929>6 điểm nội lực tích tụ</color> của địch.
+Âm Luật{{A}}=Âm Luật{{A}}
+<#94FF4D>HP +48</color>=<#94FF4D>HP +48</color>
+<#D7A347>Thực chiến +155</color>=<#D7A347>Thực chiến +155</color>
+Lần ngồi thiền này tổng cộng tiêu hao {{A}} Canh giờ{{B}} Giờ=Lần ngồi thiền này tổng cộng tiêu hao {{A}} Canh giờ{{B}} Giờ
+ nhận được 1 lạng <#00c6f3>Tiền lẻ</color>= nhận được 1 lạng <#00c6f3>Tiền lẻ</color>
+Khi tấn công địch, bản thân thu thêm <#29F161>2 điểm chiến ý</color>.=Khi tấn công địch, bản thân thu thêm <#29F161>2 điểm chiến ý</color>.
+Đoản Binh{{A}}=Đoản Binh{{A}}
+Lễ nghi càng cao,khi công kích mục tiêu sinh ra chiến ý càng thấp,lễ nghi mỗi tăng 1 điểm,<#29F161>chiến ý kẻ địch nhận được giảm 0.6%</color>.=Lễ nghi càng cao,khi công kích mục tiêu sinh ra chiến ý càng thấp,lễ nghi mỗi tăng 1 điểm,<#29F161>chiến ý kẻ địch nhận được giảm 0.6%</color>.
+Khi bị tấn công, <#29F161>sát thương cuối cùng giảm 7%</color>.=Khi bị tấn công, <#29F161>sát thương cuối cùng giảm 7%</color>.
+Tí lực{{A}}=Tí lực{{A}}
+Cấp nấu ăn của nhân vật chính càng cao thì sát thương càng cao,từ cấp {{A}} lần lượt tăng sát thương {{B}}%,{{C}}%,{{D}}%,{{E}}%,{{F}}%.=Cấp nấu ăn của nhân vật chính càng cao thì sát thương càng cao,từ cấp {{A}} lần lượt tăng sát thương {{B}}%,{{C}}%,{{D}}%,{{E}}%,{{F}}%.
+{{A}} lần hành động={{A}} lần hành động
+Kích hoạt võ đạo 【Đấu Chí Ngang Dương】,sát thương cuối cùng tăng {{A}}%.=Kích hoạt võ đạo 【Đấu Chí Ngang Dương】,sát thương cuối cùng tăng {{A}}%.
+Kích hoạt võ đạo 【Lôi Đình Vạn Quân】,sát thương cuối cùng tăng {{A}}%.=Kích hoạt võ đạo 【Lôi Đình Vạn Quân】,sát thương cuối cùng tăng {{A}}%.
+Khi nội công chính là điều hòa,bạo kích tăng {{A}}%.=Khi nội công chính là điều hòa,bạo kích tăng {{A}}%.
+Sau mỗi lượt hành động,hồi phục {{A}}% HP tối đa,tối đa {{B}} điểm.=Sau mỗi lượt hành động,hồi phục {{A}}% HP tối đa,tối đa {{B}} điểm.
+Giảm {{A}} điểm tốc độ tụ khí của đối phương,hiệu lực kéo dài đến lượt hành động tiếp theo.=Giảm {{A}} điểm tốc độ tụ khí của đối phương,hiệu lực kéo dài đến lượt hành động tiếp theo.
+Khi tấn công, gây <#FE2929>5 điểm nội thương</color> cho địch.=Khi tấn công, gây <#FE2929>5 điểm nội thương</color> cho địch.
+Hiệu quả <#29F161>tặng quà tăng 24%</color>.=Hiệu quả <#29F161>tặng quà tăng 24%</color>.
+Nhanh nhẹn{{A}}=Nhanh nhẹn{{A}}
+<#29F161>Phòng ngự cơ bản tăng 10%</color>.=<#29F161>Phòng ngự cơ bản tăng 10%</color>.
+Sau mỗi lượt hành động <#29F161>hồi phục 5% nội lực đã mất,tối đa 50 điểm</color>.=Sau mỗi lượt hành động <#29F161>hồi phục 5% nội lực đã mất,tối đa 50 điểm</color>.
+Mỗi lần hành động sẽ <#29F161>khôi phục 1% HP và nội lực tối đa,tối đa khôi phục 50 điểm</color>.=Mỗi lần hành động sẽ <#29F161>khôi phục 1% HP và nội lực tối đa,tối đa khôi phục 50 điểm</color>.
+ nhận được 1 quyển <#00c6f3>Thiểm Điện Ngũ Liên Kích</color>= nhận được 1 quyển <#00c6f3>Thiểm Điện Ngũ Liên Kích</color>
+Ngụy UyênNgộ tính+{{A}}=Ngụy UyênNgộ tính+{{A}}
+BàoXuân Thu của Kinh nghiệm ngộ tính tăng thêm {{A}} điểm=BàoXuân Thu của Kinh nghiệm ngộ tính tăng thêm {{A}} điểm
+Bạch Đầu Ông của Kinh nghiệm ngộ tính tăng thêm {{A}} điểm=Bạch Đầu Ông của Kinh nghiệm ngộ tính tăng thêm {{A}} điểm
+Ảnh hưởng đến khoảng cách di chuyển và tốc độ Tập khí, tối đa tăng {{A}} ô di chuyển và {{B}} điểm tốc độ Tập khí.=Ảnh hưởng đến khoảng cách di chuyển và tốc độ Tập khí, tối đa tăng {{A}} ô di chuyển và {{B}} điểm tốc độ Tập khí.
+Cơ bản Ngộ tính Kinh nghiệm:40/250\r\nCòn có thể nhận được <color\=#41CA44>5</color> điểm cơ bản Ngộ tính\r=Cơ bản Ngộ tính Kinh nghiệm:40/250\r\nCòn có thể nhận được <color\=#41CA44>5</color> điểm cơ bản Ngộ tính\r
+Ảnh hưởng đến Nội lực và Liên Kích ban đầu của nhân vật; Ngộ tính càng thấp <#29F161>Nội lực ban đầu</color> và <#29F161>Liên Kích</color> càng cao; Ngộ tính càng cao, khi thăng cấp sẽ tăng thêm <#29F161>Công Kích</color> và <#29F161>Phòng Ngự</color> càng nhiều; Ngộ tính đạt 10 điểm kích hoạt: 【<#29F161>Thông Dĩnh Quá Nhân</color>:<#F3DE99>Kinh nghiệm cần thiết để tu luyện võ công giảm 30%, Nội lực tiêu hao khi sử dụng ngoại công giảm 20%</color>】Ngộ tính đạt 25 điểm kích hoạt: 【<#29F161>Dĩnh Ngộ Tuyệt Luân</color>:<#F3DE99>Hiệu suất tăng trưởng của tất cả các chỉ số tăng 50%</color>】=Ảnh hưởng đến Nội lực và Liên Kích ban đầu của nhân vật; Ngộ tính càng thấp <#29F161>Nội lực ban đầu</color> và <#29F161>Liên Kích</color> càng cao; Ngộ tính càng cao, khi thăng cấp sẽ tăng thêm <#29F161>Công Kích</color> và <#29F161>Phòng Ngự</color> càng nhiều; Ngộ tính đạt 10 điểm kích hoạt: 【<#29F161>Thông Dĩnh Quá Nhân</color>:<#F3DE99>Kinh nghiệm cần thiết để tu luyện võ công giảm 30%, Nội lực tiêu hao khi sử dụng ngoại công giảm 20%</color>】Ngộ tính đạt 25 điểm kích hoạt: 【<#29F161>Dĩnh Ngộ Tuyệt Luân</color>:<#F3DE99>Hiệu suất tăng trưởng của tất cả các chỉ số tăng 50%</color>】
+ mất 1 đoạn <#c851ff>Ngọc trúc chữ Nhân</color>= mất 1 đoạn <#c851ff>Ngọc trúc chữ Nhân</color>
+ nhận được 1 bả <#00c6f3>Quyên Cung Phiến</color>= nhận được 1 bả <#00c6f3>Quyên Cung Phiến</color>
+Coi người này là tri kỷ,có thể học hỏi {{A}}Định giá sách kinh nghiệm=Coi người này là tri kỷ,có thể học hỏi {{A}}Định giá sách kinh nghiệm
+Truyền kỳ bất hủ (Danh tiếng cấp {{A}})=Truyền kỳ bất hủ (Danh tiếng cấp {{A}})
+<color\=#D2D3D3><#d09a09>Công dụng: Dùng uống</color>(Đan dược thuộc tính资质 chỉ được dùng tối đa năm viên)=<color\=#D2D3D3><#d09a09>Công dụng: Dùng uống</color>(Đan dược thuộc tính Tư chất chỉ được dùng tối đa năm viên)
+Tí lực+{{A}}=Tí lực+{{A}}
+HP càng thấp sát thương cuối cùng càng cao,khi HP đầy sát thương cuối cùng tăng {{A}}%,HP mỗi giảm {{B}}% sát thương cuối cùng lại thêm tăng {{C}}%.=HP càng thấp sát thương cuối cùng càng cao,khi HP đầy sát thương cuối cùng tăng {{A}}%,HP mỗi giảm {{B}}% sát thương cuối cùng lại thêm tăng {{C}}%.
+Độ thân thiết với Nho Thánh Quán đã đạt <#79d86a>Thân thiện</color>,được hưởng ưu đãi 9.5 phần trăm=Độ thân thiết với Nho Thánh Quán đã đạt <#79d86a>Thân thiện</color>,được hưởng ưu đãi 9.5 phần trăm
+Tiền của chủ quán: {{A}}=Tiền của chủ quán: {{A}}
+HP dưới {{A}},mỗi điểm giảm thêm {{B}}% sát thương cuối.=HP dưới {{A}},mỗi điểm giảm thêm {{B}}% sát thương cuối.
+Kích hoạt võ đạo 【Phục kích】,gây {{A}} điểm xuất huyết cho địch.=Kích hoạt võ đạo 【Phục kích】,gây {{A}} điểm xuất huyết cho địch.
+HP tối đa tăng thêm <#29F161> (220-280)</color>=HP tối đa tăng thêm <#29F161> (220-280)</color>
+Ngộ tính{{A}}、Phúc duyên{{B}}=Ngộ tính{{A}}、Phúc duyên{{B}}
+Bản thân và đồng đội trong phạm vi 3 ô xung quanh khi chiến đấu sẽ nhận được Chiến Ý <#29F161>tăng thêm 100%</color>.=Bản thân và đồng đội trong phạm vi 3 ô xung quanh khi chiến đấu sẽ nhận được Chiến Ý <#29F161>tăng thêm 100%</color>.
+Gây ra hiệu ứng giảm {{A}}% tốc độ tụ khí cho kẻ địch trong phạm vi {{B}} ô xung quanh.=Gây ra hiệu ứng giảm {{A}}% tốc độ tụ khí cho kẻ địch trong phạm vi {{B}} ô xung quanh.
+Đăng ký tham gia hội thi.<color\=#097a76>（12 canh giờ）</color>=Đăng ký tham gia hội thi.<color\=#097a76>（12 canh giờ）</color>
+Tặng quà cho mọi người <#29F161>được tăng 25% hiệu quả</color>.=Tặng quà cho mọi người <#29F161>được tăng 25% hiệu quả</color>.
+<#29F161>“Nhân nghĩa lễ trí tín” 5 phẩm chất tăng giảm đều sẽ thêm hoặc bớt 100%</color>.=<#29F161>“Nhân nghĩa lễ trí tín” 5 phẩm chất tăng giảm đều sẽ thêm hoặc bớt 100%</color>.
+Nữ giới trang bị,khi bị tấn công sẽ giảm <#29F161>5% sát thương cuối cùng</color>.=Nữ giới trang bị,khi bị tấn công sẽ giảm <#29F161>5% sát thương cuối cùng</color>.
+<#29F161>Hiệu quả tặng quà tăng 15%</color>.=<#29F161>Hiệu quả tặng quà tăng 15%</color>.
+Đòn tấn công này có {{A}}% xác suất kích hoạt liên kích khi tiêu diệt kẻ địch.=Đòn tấn công này có {{A}}% xác suất kích hoạt liên kích khi tiêu diệt kẻ địch.
+Khi học được ngoại công <#c851ff>Quân Tử Hảo Cầu</color>,sát thương cuối cùng tăng 30%.=Khi học được ngoại công <#c851ff>Quân Tử Hảo Cầu</color>,sát thương cuối cùng tăng 30%.
+Nếu nhân vật chính có Lễ Giáo > 0, sát thương nhận được giảm <#29F161>4%</color>.=Nếu nhân vật chính có Lễ Giáo > 0, sát thương nhận được giảm <#29F161>4%</color>.
+Nội lực bản thân cao hơn thể chất đối phương,có {{A}}% xác suất gây choáng váng kẻ địch không phải Thủ lĩnh,kéo dài đến lượt hành động tiếp theo của kẻ địch.=Nội lực bản thân cao hơn thể chất đối phương,có {{A}}% xác suất gây choáng váng kẻ địch không phải Thủ lĩnh,kéo dài đến lượt hành động tiếp theo của kẻ địch.
+Phong huyệt của địch càng cao thì sát thương nhận vào càng cao,mỗi {{A}} điểm phong huyệt sát thương cuối cùng nhận vào tăng thêm {{B}}%.=Phong huyệt của địch càng cao thì sát thương nhận vào càng cao,mỗi {{A}} điểm phong huyệt sát thương cuối cùng nhận vào tăng thêm {{B}}%.
+Khinh công đạt {{A}},gây {{B}} điểm xuất huyết cho đối phương.=Khinh công đạt {{A}},gây {{B}} điểm xuất huyết cho đối phương.
+Địch càng chảy nhiều máu thì sát thương phải chịu càng cao,mỗi {{A}} điểm chảy máu sát thương cuối cùng phải chịu tăng thêm {{B}}%.=Địch càng chảy nhiều máu thì sát thương phải chịu càng cao,mỗi {{A}} điểm chảy máu sát thương cuối cùng phải chịu tăng thêm {{B}}%.
+<#D7A347>Nhân Đức</color><#5EB94F>tăng</color>3 điểm=<#D7A347>Nhân Đức</color><#5EB94F>tăng</color>3 điểm
+ nhận được 1 tờ <#c851ff>Nho Thánh Quán Địa Đồ</color>= nhận được 1 tờ <#c851ff>Nho Thánh Quán Địa Đồ</color>
+Mua， bán， giám định hàng loạt 【Số lượng vật phẩm cần đạt {{A}}】=Mua， bán， giám định hàng loạt 【Số lượng vật phẩm cần đạt {{A}}】
+Trạng thái tự do， cứ mỗi {{A}} phút tiến hành lưu trữ một lần (cần mở tự động lưu trữ mới có thể chọn)=Trạng thái tự do， cứ mỗi {{A}} phút tiến hành lưu trữ một lần (cần mở tự động lưu trữ mới có thể chọn)
+Chuyển sang tốc độ trò chơi {{A}} lần (Sau khi mở, Nhân vật di chuyển, thời gian trò chơi sẽ tăng tốc)=Chuyển sang tốc độ trò chơi {{A}} lần (Sau khi mở, Nhân vật di chuyển, thời gian trò chơi sẽ tăng tốc)
+Nhận được <#5CBD4C>1000 điểm kinh nghiệm giang hồ</color>=Nhận được <#5CBD4C>1000 điểm kinh nghiệm giang hồ</color>
+Ngụy Uyên của <#d09a09>Cơ quan kinh nghiệm</color> tăng thêm 150 điểm=Ngụy Uyên của <#d09a09>Cơ quan kinh nghiệm</color> tăng thêm 150 điểm
+Phản tỉnh tự thân đích quá thất. <color\=#097a76>(2 cá thời thần、thể lực 25)</color>=Phản tỉnh tự thân đích quá thất. <color\=#097a76>(2 cá thời thần、thể lực 25)</color>
+<#F2E846>Nhân Đức+2</color>=<#F2E846>Nhân Đức+2</color>
+Nhận được <#D7A347>100 EXP</color>=Nhận được <#D7A347>100 EXP</color>
+<#F2E846>Trí Tuệ+2</color>=<#F2E846>Trí Tuệ+2</color>
+<#F2E846>Uy tín+2</color>=<#F2E846>Uy tín+2</color>
+《Thái Thượng Cảm Ứng Thiên》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Thái Thượng Cảm Ứng Thiên》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+《Tam Thập Tam Kiếm Khách Đồ》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Tam Thập Tam Kiếm Khách Đồ》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+《Lễ Thư Thông Cố》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Lễ Thư Thông Cố》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+《Ngọc Đài Tân Vịnh》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Ngọc Đài Tân Vịnh》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+《Thôi Bối Đồ》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Thôi Bối Đồ》,tín độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+<#94FF4D>HP +56</color>=<#94FF4D>HP +56</color>
+<#FFFFFF>Nội lực +5</color>=<#FFFFFF>Nội lực +5</color>
+ nhận được <#FFED56>25 điểm cống hiến môn phái</color>= nhận được <#FFED56>25 điểm cống hiến môn phái</color>
+Uy tín +{{A}},Quan hệ thành Lâm An +{{B}}=Uy tín +{{A}},Quan hệ thành Lâm An +{{B}}
+{{A}} ngày {{B}} canh giờ={{A}} ngày {{B}} canh giờ
+Có thể theo dõi tối đa {{A}} nhiệm vụ sự kiện cùng lúc=Có thể theo dõi tối đa {{A}} nhiệm vụ sự kiện cùng lúc
+9%<color\=#41CA44> +6%=9%<color\=#41CA44> +6%
+Nhân vật chính ít nhất phải nâng cấp lên cấp {{A}} rồi mới tìm Nhất Chi Hoa tham gia trận tử chiến.=Nhân vật chính ít nhất phải nâng cấp lên cấp {{A}} rồi mới tìm Nhất Chi Hoa tham gia trận tử chiến.
+ nhận được 5 quyển <#00c6f3>Sách vô danh</color>= nhận được 5 quyển <#00c6f3>Sách vô danh</color>
+ nhận được 1 tấm <#00c6f3>Tư Vịnh Thiếp</color>= nhận được 1 tấm <#00c6f3>Tư Vịnh Thiếp</color>
+Coi người này là tri kỷ,có thể học hỏi {{A}}Định giá tranh chữ kinh nghiệm=Coi người này là tri kỷ,có thể học hỏi {{A}}Định giá tranh chữ kinh nghiệm
+<#79d86a>Quen biết(7)</color>=<#79d86a>Quen biết(7)</color>
+Những câu thơ kiếm khí纵横 này dường như ẩn chứa lý lẽ võ học, mỗi lần đọc xong đều hào khí dâng trào, toàn thân dường như có sức mạnh vô tận.=Những câu thơ kiếm khí tung hoành này dường như ẩn chứa lý lẽ võ học, mỗi lần đọc xong đều hào khí dâng trào, toàn thân dường như có sức mạnh vô tận.
+Bạch Đầu Ông thu được {{A}} điểm tư chất=Bạch Đầu Ông thu được {{A}} điểm tư chất
+<#F2E846>Dũng cảm+10</color>=<#F2E846>Dũng cảm+10</color>
+<#F55452>Nội Thương+6</color>=<#F55452>Nội Thương+6</color>
+{{A}} ngày{{B}} canh giờ{{C}} giờ={{A}} ngày{{B}} canh giờ{{C}} giờ
+Ngũ hành tư chất giảm <#FE2929>3 điểm</color>,HP và Nội lực giảm <#FE2929>25%</color>,Sát thương phải chịu tăng thêm <#FE2929>30%</color>,Cự ly di chuyển giảm <#FE2929>5 ô</color>(Cự ly di chuyển tối thiểu không dưới 1 ô)=Ngũ hành tư chất giảm <#FE2929>3 điểm</color>,HP và Nội lực giảm <#FE2929>25%</color>,Sát thương phải chịu tăng thêm <#FE2929>30%</color>,Cự ly di chuyển giảm <#FE2929>5 ô</color>(Cự ly di chuyển tối thiểu không dưới 1 ô)
+Khi sử dụng ngoại công có cơ hội kích hoạt thêm một lần sát thương ngoại công, nhưng chỉ gây ra {{A}}% sát thương; Nâng cấp, Phúc duyên, giảm Ngộ tính, lĩnh ngộ võ đạo có thể tăng tỷ lệ Liên Kích.=Khi sử dụng ngoại công có cơ hội kích hoạt thêm một lần sát thương ngoại công, nhưng chỉ gây ra {{A}}% sát thương; Nâng cấp, Phúc duyên, giảm Ngộ tính, lĩnh ngộ võ đạo có thể tăng tỷ lệ Liên Kích.
+Ngụy Uyên nhận được trạng thái <#00FF00>Sinh Mệnh,Nội Lực khôi phục 50%</color>=Ngụy Uyên nhận được trạng thái <#00FF00>Sinh Mệnh,Nội Lực khôi phục 50%</color>
+<#D7A347>Uy tín</color><#5EB94F>tăng</color>2 điểm=<#D7A347>Uy tín</color><#5EB94F>tăng</color>2 điểm
+<#D7A347>Trí Tuệ</color><#5EB94F>tăng</color>2 điểm=<#D7A347>Trí Tuệ</color><#5EB94F>tăng</color>2 điểm
+<#D7A347>Lễ Tiết</color><#5EB94F>tăng</color>2 điểm=<#D7A347>Lễ Tiết</color><#5EB94F>tăng</color>2 điểm
+<#D7A347>Nghĩa Khí</color><#5EB94F>tăng</color>2 điểm=<#D7A347>Nghĩa Khí</color><#5EB94F>tăng</color>2 điểm
+<#D7A347>Nhân Đức</color><#5EB94F>tăng</color>2 điểm=<#D7A347>Nhân Đức</color><#5EB94F>tăng</color>2 điểm
+Trận thứ {{A}}=Trận thứ {{A}}
+Thời hạn: {{A}} Ngày{{B}} Canh giờ{{C}} Giờ=Thời hạn: {{A}} Ngày{{B}} Canh giờ{{C}} Giờ
+Đấu võ nhỏ Nho thánh quán sẽ mở lại sau {{A}} ngày.=Đấu võ nhỏ Nho thánh quán sẽ mở lại sau {{A}} ngày.
+<#61C3C8>Ngụy Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 320=<#61C3C8>Ngụy Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 320
+Cam đảm chịu rủi ro, tự nguyện cống hiến. Đạt đến giới hạn 100 kích hoạt <#29F161>Nghĩa Bạc Vân Thiên</color>【<#F3DE99>Khi nâng cao mối quan hệ với các nhân vật khác sẽ tăng thêm 25%</color>】. Đạt đến giới hạn -100 kích hoạt <#29F161>Kiến Lợi Vong Nghĩa</color>【<#F3DE99>EXP của bản thân tăng gấp đôi, nhưng EXP mà đồng đội nhận được giảm một nửa</color>】.=Cam đảm chịu rủi ro, tự nguyện cống hiến. Đạt đến giới hạn 100 kích hoạt <#29F161>Nghĩa Bạc Vân Thiên</color>【<#F3DE99>Khi nâng cao mối quan hệ với các nhân vật khác sẽ tăng thêm 25%</color>】. Đạt đến giới hạn -100 kích hoạt <#29F161>Kiến Lợi Vong Nghĩa</color>【<#F3DE99>EXP của bản thân tăng gấp đôi, nhưng EXP mà đồng đội nhận được giảm một nửa</color>】.
+Khi tấn công địch, bản thân thu thêm <#29F161>4 điểm chiến ý</color>.=Khi tấn công địch, bản thân thu thêm <#29F161>4 điểm chiến ý</color>.
+Khi tấn công, gây <#FE2929>14 điểm chảy máu</color> cho địch.=Khi tấn công, gây <#FE2929>14 điểm chảy máu</color> cho địch.
+Tôn trọng người khác, chân thành chu đáo. Đạt đến giới hạn 100 kích hoạt <#29F161>Bân Bân Hữu Lễ</color>【<#F3DE99>Khi gặp mặt lần đầu với các nhân vật không phải địch, Danh Thanh của bản thân thấp hơn mối quan hệ với đối phương sẽ tăng thêm 2 điểm, cao hơn đối phương và mỗi cấp cao hơn sẽ tăng thêm 2 điểm</color>】. Đạt đến giới hạn -100 kích hoạt <#29F161>Vô Lễ Chi Đồ</color>【<#F3DE99>Khi quan hệ với người khác xấu đi, quan hệ chỉ giảm 50%</color>】.=Tôn trọng người khác, chân thành chu đáo. Đạt đến giới hạn 100 kích hoạt <#29F161>Bân Bân Hữu Lễ</color>【<#F3DE99>Khi gặp mặt lần đầu với các nhân vật không phải địch, Danh Thanh của bản thân thấp hơn mối quan hệ với đối phương sẽ tăng thêm 2 điểm, cao hơn đối phương và mỗi cấp cao hơn sẽ tăng thêm 2 điểm</color>】. Đạt đến giới hạn -100 kích hoạt <#29F161>Vô Lễ Chi Đồ</color>【<#F3DE99>Khi quan hệ với người khác xấu đi, quan hệ chỉ giảm 50%</color>】.
+<#F2E846>Nghĩa Khí+10</color>=<#F2E846>Nghĩa Khí+10</color>
+Giờ Ngọ刻 thứ hai=Giờ Ngọ Giờ thứ hai
+Danh tiếng nghĩa hiệp của ngươi vang xa,sẵn sàng xả thân vì bằng hữu,người người trong giang hồ đều muốn kết giao. Khi tăng độ hảo cảm với nhân vật khác <#29F161>sẽ được thêm 25%</color>.=Danh tiếng nghĩa hiệp của ngươi vang xa,sẵn sàng xả thân vì bằng hữu,người người trong giang hồ đều muốn kết giao. Khi tăng độ hảo cảm với nhân vật khác <#29F161>sẽ được thêm 25%</color>.
+Ty Thần thu được {{A}} điểm tư chất=Ty Thần thu được {{A}} điểm tư chất
+<#9B8C6D>Tiêu hao:</color>2 Canh giờ4 Giờ=<#9B8C6D>Tiêu hao:</color>2 Canh giờ4 Giờ
+Uy tín+{{A}}、Đại Lương ThànhQuan hệ+{{B}}=Uy tín+{{A}}、Đại Lương ThànhQuan hệ+{{B}}
+Uy tín+{{A}}=Uy tín+{{A}}
+Sau {{A}} Canh giờ{{B}} Giờ làm mới=Sau {{A}} Canh giờ{{B}} Giờ làm mới
+ nhận được <#FFED56>300 đồng tiền</color>= nhận được <#FFED56>300 đồng tiền</color>
+《Tam Thập Tam Kiếm Khách Đồ》,tín độ {TagNum:三十三剑客图进度}%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Tam Thập Tam Kiếm Khách Đồ》,tín độ {TagNum:Tam Thập Tam Kiếm Khách Đồ tiến độ}%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+<#FFE7B0>Danh tiếng (cấp 4)</color>=<#FFE7B0>Danh tiếng (cấp 4)</color>
+<color\=#E6C899>Chỉ số cộng thêm</color><space\=1em>Đoản Binh+6、Công Kích+60、Võ học thường thức+12=<color\=#E6C899>Chỉ số cộng thêm</color><space\=1em>Đoản Binh+6、Công Kích+60、Võ học thường thức+12
+Mang mệnh Thiên Sát Cô Tinh,khi độc hành giang hồ,chiến đấu tiêu diệt đối thủ sẽ nhận được <#29F161>gấp ba EXP</color>,đồng thời <#29F161>sát thương cuối cùng khi công kích tăng 100%</color>.=Mang mệnh Thiên Sát Cô Tinh,khi độc hành giang hồ,chiến đấu tiêu diệt đối thủ sẽ nhận được <#29F161>gấp ba EXP</color>,đồng thời <#29F161>sát thương cuối cùng khi công kích tăng 100%</color>.
+Ăn cơm có thể tăng thể chất,giới hạn là {{A}}.=Ăn cơm có thể tăng thể chất,giới hạn là {{A}}.
+Danh tiếng đạt cấp 4.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu=Danh tiếng đạt cấp 4.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu
+Danh tiếng đạt cấp 3.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu=Danh tiếng đạt cấp 3.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu
+Danh tiếng đạt cấp 2.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu=Danh tiếng đạt cấp 2.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu
+Danh tiếng đạt cấp 1.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu=Danh tiếng đạt cấp 1.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu
+Độ hảo cảm với 20 NPC đạt 100.\nCó thể nhận được <#236c0f>4</color> điểm thành tựu=Độ hảo cảm với 20 NPC đạt 100.\nCó thể nhận được <#236c0f>4</color> điểm thành tựu
+Khinh công của nhân vật chính đạt 200.\nCó thể nhận được <#236c0f>4</color> điểm thành tựu=Khinh công của nhân vật chính đạt 200.\nCó thể nhận được <#236c0f>4</color> điểm thành tựu
+Nhân vật chính đạt cấp 30.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu=Nhân vật chính đạt cấp 30.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu
+Nhân vật chính đạt cấp 20.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu=Nhân vật chính đạt cấp 20.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu
+Nhân vật chính đạt cấp 10.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu=Nhân vật chính đạt cấp 10.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu
+Nhân vật chính đạt cấp 5.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu=Nhân vật chính đạt cấp 5.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu
+Nhân vật chính đạt cấp 40.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu=Nhân vật chính đạt cấp 40.\nCó thể nhận được <#236c0f>2</color> điểm thành tựu
+37/170<color\=#FEED8F>(22%)</color>=37/170<color\=#FEED8F>(22%)</color>
+Thời gian chơi: {{A}} ngày {{B}} giờ=Thời gian chơi: {{A}} ngày {{B}} giờ
+Lưu thủ công {{A}}=Lưu thủ công {{A}}
+Bị đánh {{A}} lần sau đó công kích mục tiêu có thể kích hoạt hội tâm nhất kích!=Bị đánh {{A}} lần sau đó công kích mục tiêu có thể kích hoạt hội tâm nhất kích!
+《Tam Thập Tam Kiếm Khách Đồ》,tín độ 10%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Tam Thập Tam Kiếm Khách Đồ》,tín độ 10%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+Nhận được <#D7A347>800 EXP</color>=Nhận được <#D7A347>800 EXP</color>
+<#61C3C8>Ngụy  Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 330=<#61C3C8>Ngụy  Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 330
+<#D7A347>Nghĩa Khí</color><#5EB94F>tăng</color>10 điểm=<#D7A347>Nghĩa Khí</color><#5EB94F>tăng</color>10 điểm
+Bất kỳ thuộc tính ngũ hành nào đạt {{A}} và {{B}},nhân vật có thể nhận được trạng thái đặc biệt.=Bất kỳ thuộc tính ngũ hành nào đạt {{A}} và {{B}},nhân vật có thể nhận được trạng thái đặc biệt.
+<#F2E846>Trí Tuệ+20</color>=<#F2E846>Trí Tuệ+20</color>
+Nhận được <#5CBD4C>75 điểm kinh nghiệm giang hồ</color>=Nhận được <#5CBD4C>75 điểm kinh nghiệm giang hồ</color>
+ nhận được <#FFED56>100 điểm cống hiến môn phái</color>= nhận được <#FFED56>100 điểm cống hiến môn phái</color>
+Ngụy  Uyên của Kinh nghiệm ngộ tính tăng thêm {{A}} điểm=Ngụy  Uyên của Kinh nghiệm ngộ tính tăng thêm {{A}} điểm
+Ngụy  UyênNgộ tính+{{A}}=Ngụy  UyênNgộ tính+{{A}}
+Cơ bản Ngộ tính Kinh nghiệm:40/300\r\nCòn có thể nhận được <color\=#41CA44>4</color> điểm cơ bản Ngộ tính\r=Cơ bản Ngộ tính Kinh nghiệm:40/300\r\nCòn có thể nhận được <color\=#41CA44>4</color> điểm cơ bản Ngộ tính\r
+Nhân vật mỗi khi lên <#68cf24>10 cấp</color> sẽ nhận được 1 điểm tư chất,tư chất có thể dùng để tăng Ngũ Duy thuộc tính,tiêu hao <#c851ff>Vong Ưu Đan</color> có thể đặt lại Ngũ Duy tư chất nhận được khi lên cấp.=Nhân vật mỗi khi lên <#68cf24>10 cấp</color> sẽ nhận được 1 điểm tư chất,tư chất có thể dùng để tăng Ngũ Duy thuộc tính,tiêu hao <#c851ff>Vong Ưu Đan</color> có thể đặt lại Ngũ Duy tư chất nhận được khi lên cấp.
+Nhận được <#D7A347>650 EXP</color>=Nhận được <#D7A347>650 EXP</color>
+《Tam Thập Tam Kiếm Khách Đồ》,tiến độ 25%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Tam Thập Tam Kiếm Khách Đồ》,tiến độ 25%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+《Thái Thượng Cảm Ứng Thiên》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Thái Thượng Cảm Ứng Thiên》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+《Lễ Thư Thông Cố》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Lễ Thư Thông Cố》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+《Ngọc Đài Tân Vịnh》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Ngọc Đài Tân Vịnh》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+《Thôi Bối Đồ》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Thôi Bối Đồ》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
+<#61C3C8>Ngụy  Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 340=<#61C3C8>Ngụy  Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 340
+Ngụy  Uyên nhận được trạng thái <#00FF00>Sinh Mệnh,Nội Lực khôi phục 20%</color>=Ngụy  Uyên nhận được trạng thái <#00FF00>Sinh Mệnh,Nội Lực khôi phục 20%</color>
