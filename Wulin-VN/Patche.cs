@@ -223,5 +223,18 @@ class Patches
         }
 
     }
-
+    [HarmonyPatch(typeof(RoamingUI), "OnEnable")]
+    [HarmonyPriority(800)]
+    [HarmonyPostfix]
+    public static void RoamingUI_OnEnable_Postfix(RoamingUI __instance)
+    {
+        __instance.dayLabel.text = "Ngày " + (MonoSingleton<InGameTimeManager>.Instance.TotalDaysPassedAsInt + 1).ToString();
+    }
+    [HarmonyPatch(typeof(InGameTimeManager), "OnDayChange")]
+    [HarmonyPostfix]
+    [HarmonyPriority(800)]
+    public static void InGameTimeManager_OnDayChange_Postfix(InGameTimeManager __instance)
+    {
+        UiSingletonPrefab<RoamingUI>.Instance.dayLabel.text = "Ngày " + (__instance.TotalDaysPassedAsInt + 1).ToString();
+    }
 }

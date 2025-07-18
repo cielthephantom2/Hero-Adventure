@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translation.csproj|e:\\github project\\hero-adventure\\wulin-vn\\vyyytranslationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translation.csproj|solutionrelative:vyyytranslationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translation.csproj|e:\\github project\\hero-adventure\\wulin-vn\\patche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translation.csproj|solutionrelative:patche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translation.csproj|e:\\github project\\hero-adventure\\wulin-vn\\vyyytranslationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translation.csproj|solutionrelative:vyyytranslationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FFE3C9C-1853-4CC5-8602-D2A90B19E136}|Vyyy.Translation.csproj|e:\\github project\\hero-adventure\\wulin-vn\\vyyy.translation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -26,30 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "VyyyTranslationConfig.cs",
               "DocumentMoniker": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\VyyyTranslationConfig.cs",
               "RelativeDocumentMoniker": "VyyyTranslationConfig.cs",
               "ToolTip": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\VyyyTranslationConfig.cs",
               "RelativeToolTip": "VyyyTranslationConfig.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAuwEAAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAADwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T19:08:48.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Patche.cs",
               "DocumentMoniker": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\Patche.cs",
               "RelativeDocumentMoniker": "Patche.cs",
               "ToolTip": "E:\\GitHub Project\\Hero-Adventure\\Wulin-VN\\Patche.cs",
               "RelativeToolTip": "Patche.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwCsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAANMAAAAAAAAAAAAAAOYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T19:08:42.394Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "Vyyy.Translation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-16T02:52:06.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T02:52:06.424Z"
             },
             {
               "$type": "Document",
