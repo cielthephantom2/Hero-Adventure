@@ -279,3 +279,4 @@ Nhận được <#D7A347>650 EXP</color>=Nhận được <#D7A347>650 EXP</color
 《Thôi Bối Đồ》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>=《Thôi Bối Đồ》,tiến độ 0%. <color\=#097a76>(tiêu hao 2 thời thần、25 thể lực)</color>
 <#61C3C8>Ngụy  Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 340=<#61C3C8>Ngụy  Uyên</color>kích hoạt Trang Chu Mộng Điệp,Nhận được EXP 340
 Ngụy  Uyên nhận được trạng thái <#00FF00>Sinh Mệnh,Nội Lực khôi phục 20%</color>=Ngụy  Uyên nhận được trạng thái <#00FF00>Sinh Mệnh,Nội Lực khôi phục 20%</color>
+<#D7A347>Trí Tuệ</color><#5EB94F>tăng</color>20 điểm=<#D7A347>Trí Tuệ</color><#5EB94F>tăng</color>20 điểm
